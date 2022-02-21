@@ -9,7 +9,7 @@
 <hr>
 
 ### 💻 Programmer Skills:
-<img src="https://content.techgig.com/thumb/msid-77132328,width-860,resizemode-4/Top-programming-projects-that-can-add-value-to-your-resume.jpg?140622" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <p align="left">
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +25,7 @@
   ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
  
 </p>
-<hr width="58%">
+<hr width="58%"><img src="https://content.techgig.com/thumb/msid-77132328,width-860,resizemode-4/Top-programming-projects-that-can-add-value-to-your-resume.jpg?140622" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ### 🔧 Tools:
