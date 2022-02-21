@@ -8,7 +8,7 @@
 
 <hr>
 <img src="https://content.techgig.com/thumb/msid-77132328,width-860,resizemode-4/Top-programming-projects-that-can-add-value-to-your-resume.jpg?140622" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-###💻 Programmer Skills:
+### 💻 Programmer Skills:
 
 <p align="left">
 
