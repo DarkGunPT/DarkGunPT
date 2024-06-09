@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> 
-  I'm a <strong>Software Engineer Student in graduation</strong>, currently in my final year at Instituto Superior de Engenharia de Coimbra
+  I'm a <strong>Software Engineer</strong>, currently in my 1st year in Software Development Masters at Instituto Superior de Engenharia de Coimbra
 </p>
 
 <hr>
