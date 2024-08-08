@@ -59,4 +59,5 @@
 </p>  
 <hr>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkgunpt&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="darkgunpt"/></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
