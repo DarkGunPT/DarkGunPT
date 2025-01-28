@@ -60,4 +60,7 @@
 <hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkGunPT&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div align="center" style="display: flex">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkGunPT&hide_border=1&theme=dracula&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
+</div>
 
