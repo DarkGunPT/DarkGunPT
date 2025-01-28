@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> 
-  I'm a <strong>Software Engineer</strong> currently working at Devoteam and 2nd year in Software Development Masters at Instituto Superior de Engenharia de Coimbra
+  I'm a <strong>Software Engineer</strong> currently working at Devoteam and Masters in Software Development at Instituto Superior de Engenharia de Coimbra
 </p>
 
 <hr>
